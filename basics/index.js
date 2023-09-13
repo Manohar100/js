@@ -8,4 +8,4 @@ accountPassword="55555"
 accountCity = "Jaipur"
 accountCity="bhopal"
 /* accountId = 23; not possible */
-console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
+console.table([accountId,accountEmail,accountPassword,accountCity,accountState ])
